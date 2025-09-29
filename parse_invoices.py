@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-parse_invoices.py
+parse_invoices.py 
 -----------------
 CLI tool to parse distributor invoices (PDF) into a normalized CSV/XLSX and map each line to a GL code.
 
