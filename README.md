@@ -29,7 +29,7 @@
 
 ## How to Run
 1. Place PDFs into `/mnt/data/` (or update the `pdf_paths` list in the notebook/script).
-2. Ensure `Invoice-Headers.xlsx` and `ChartofAccounts revised list 9 15 25 (1).xlsx` exist in `/mnt/data/`.
+2. Ensure `Invoice-Headers.xlsx` and `ChartofAccounts.xlsx` exist in `/mnt/data/`.
 3. Execute the notebook cells (or run the Python script version) to regenerate the CSV/XLSX.
 
 ## Next Improvements (Bonus-ready)
